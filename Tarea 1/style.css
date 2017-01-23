@@ -2,6 +2,15 @@
     font-family: Lucida Sans, Arial, Helvetica, sans-serif;
 }
 
+mark { 
+    background-color: black;
+    color: white;
+}
+
+mark2{ 
+    background-color: green;
+    color: black;
+}
 body {
     width: 800px;
     margin: 0em auto;
@@ -77,6 +86,8 @@ article >  section figure {
     margin-left: 180px;
     margin-bottom: 30px;
 }
+
+
 
 aside p {
         position:relative;
